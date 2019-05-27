@@ -1,0 +1,3 @@
+Para ejecutar el juego completo se debe de ejecutar el código llamado "EJECUTAR ESTE PRIMERO" ya que en él se llama al otro código que es el que contiene al juego(Cliente1).
+Adjuntos vienen dos Server, el que se llama "Server de cliente1" es el que debe de ejecutar con el código que se llama "Cliente1"(No se logró que se conectaran satisfactoriamente).
+El otro que se llama "server que sí conecta con cliente2" es  un código que sí se logro hacer que se conectaran entre sí, este se debe ejecutar junto con "cliente2 que sí conecta"
